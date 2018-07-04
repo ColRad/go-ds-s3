@@ -3,8 +3,8 @@ package s3ds
 import (
 	"testing"
 
-	dstest "github.com/ipfs/go-datastore/test"
-	s3 "github.com/rlmcpherson/s3gof3r"
+	s3 "gx/ipfs/QmR1J2FeuQqVZwigFA8e1NPXWacgKGZ3uV8ikqzHua6Pm3/s3gof3r"
+	dstest "gx/ipfs/QmeiCcJfDW1GJnWUArudsv5rQsihpi4oyddPhdqo3CfX6i/go-datastore/test"
 )
 
 func TestSuite(t *testing.T) {

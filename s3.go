@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	ds "github.com/ipfs/go-datastore"
-	dsq "github.com/ipfs/go-datastore/query"
-	s3 "github.com/rlmcpherson/s3gof3r"
+	s3 "gx/ipfs/QmR1J2FeuQqVZwigFA8e1NPXWacgKGZ3uV8ikqzHua6Pm3/s3gof3r"
+	ds "gx/ipfs/QmeiCcJfDW1GJnWUArudsv5rQsihpi4oyddPhdqo3CfX6i/go-datastore"
+	dsq "gx/ipfs/QmeiCcJfDW1GJnWUArudsv5rQsihpi4oyddPhdqo3CfX6i/go-datastore/query"
 )
 
 type S3Bucket struct {
